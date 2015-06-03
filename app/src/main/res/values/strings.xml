@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="web_browser">Web Browser</string>
+    <string name="show_map">Show Map</string>
+    <string name="make_call">Make Call</string>
+</resources>
